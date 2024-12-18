@@ -2,6 +2,7 @@
 *
 !*.keep
 !*.md
+!/使用參考/*
 
 # Requirements files
 !/requirements/
